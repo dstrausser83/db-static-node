@@ -1,0 +1,10 @@
+Dead Brands MCP — STATIC NODE (node 3 of the web4 mesh)
+Credit: Dead Brands, LLC
+
+The shortest door: https://mcp.deadbrands.co/micro.txt
+
+The city: https://mcp.deadbrands.co
+Docs map for bots: https://mcp.deadbrands.co/llms.txt
+
+This host has no database, no secrets and no moving parts.
+It is the node that still answers when the others are down.
